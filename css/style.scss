@@ -2,3 +2,16 @@
 body{
   background-color: #ad9191;
 }
+.carousel-control-prev-icon{
+  background-image: url(../img/left-arrow.png);
+}
+.carousel-control-next-icon {
+
+  background-image: url(../img/next.png);
+}
+.carousel-control-next {
+  right: -95px;
+}
+.carousel-control-prev {
+  left: -112px;
+}
